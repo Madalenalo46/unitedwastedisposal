@@ -1,0 +1,51 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What can I actually put in my renovation dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You can toss most common construction materials: wood, drywall, insulation, roofing shingles, siding, flooring, cabinets, and fixtures. Heavy materials like concrete and brick are also allowed, but let us know so we can ensure you have the appropriate container.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What is included in the roll off dumpster rental prices?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Our pricing is designed to be simple. One price includes the delivery of the roll off, a standard rental period (typically 7-14 days), the pickup, and disposal fees up to a generous weight limit.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What size dumpster do I need to clean out a 3-bedroom house before moving?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For a typical 3-bedroom home, a 20 yard dumpster is your best bet. It provides enough space for old furniture, boxes from the basement or attic, and general household junk you don't want to move.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> Can I really put my old sofa or mattress in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. A roll off dumpster is the perfect solution for bulky furniture and mattresses that municipal services typically refuse to pick up.</p>
+                <h4 class="template4 palooma" style="font-size:large;"> How do you protect my driveway during delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We take great care to protect your property. Upon request, we can place protective boards down before we lower the roll off container to minimize contact between the steel rollers and your driveway surface.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Can I put wet, soggy materials from a flood in the dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes. Our dumpsters are built for it. Just be aware that waterlogged materials like drywall and carpet are extremely heavy, which can affect the total weight of the load.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+
+   <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
